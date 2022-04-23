@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/FaunaStore/static/css/main.37d578b0.css",
+    "main.js": "/FaunaStore/static/js/main.e4dc11a2.js",
+    "static/media/cordillera.png": "/FaunaStore/static/media/cordillera.d26c31f287810a02a03a.png",
+    "static/media/adornoCondor.png": "/FaunaStore/static/media/adornoCondor.4657c7b7e8e9de5cef75.png",
+    "static/media/buzoSerpienteCoral.png": "/FaunaStore/static/media/buzoSerpienteCoral.b041a1fa9888704f953f.png",
+    "static/media/buzoHalconPeregrino.png": "/FaunaStore/static/media/buzoHalconPeregrino.f97ec27c10a86b68a7b0.png",
+    "static/media/buzoPuma.png": "/FaunaStore/static/media/buzoPuma.2d7cee94bb24e6d41882.png",
+    "static/media/buzoCondor.png": "/FaunaStore/static/media/buzoCondor.50a3ce49209b6c0735d1.png",
+    "static/media/tasaSerpienteCoral.png": "/FaunaStore/static/media/tasaSerpienteCoral.df2efc816a99bf304e0f.png",
+    "static/media/tasaHalconPeregrino.png": "/FaunaStore/static/media/tasaHalconPeregrino.2ee2f1559ba993a6e6e6.png",
+    "static/media/tasaPuma.png": "/FaunaStore/static/media/tasaPuma.41e5f18ccbc5c63e6095.png",
+    "static/media/tasaCondor.png": "/FaunaStore/static/media/tasaCondor.9b32431c1c3eaf280d4c.png",
+    "static/media/gorraSerpienteCoral.png": "/FaunaStore/static/media/gorraSerpienteCoral.06cd9f7b9420b7e125db.png",
+    "static/media/gorraPuma.png": "/FaunaStore/static/media/gorraPuma.87445f225bceca69521b.png",
+    "static/media/gorraCondor.png": "/FaunaStore/static/media/gorraCondor.74ff8364b0b487c7a2da.png",
+    "static/media/gorraHalconPeregrino.png": "/FaunaStore/static/media/gorraHalconPeregrino.276e321a71d9b6553ec6.png",
+    "static/media/remeraHalconPeregrino.png": "/FaunaStore/static/media/remeraHalconPeregrino.67620f790701bbf7727c.png",
+    "static/media/remeraSerpienteCoral.png": "/FaunaStore/static/media/remeraSerpienteCoral.be7b99f3d96b12afe707.png",
+    "static/media/remeraPuma.png": "/FaunaStore/static/media/remeraPuma.9ae27bc42cc6cdda4b7c.png",
+    "static/media/remeraCondor.png": "/FaunaStore/static/media/remeraCondor.28f886438fdbc049abdb.png",
+    "static/media/fondo1.jpg": "/FaunaStore/static/media/fondo1.b20a7b08039e9359d912.jpg",
+    "static/media/remeraGenerica.png": "/FaunaStore/static/media/remeraGenerica.9526c3607d5a41dcc1d2.png",
+    "static/media/sinStock.png": "/FaunaStore/static/media/sinStock.b8e73ed097e45c66c20b.png",
+    "static/media/login.png": "/FaunaStore/static/media/login.7fdbc6a228386e239b12.png",
+    "index.html": "/FaunaStore/index.html",
+    "main.37d578b0.css.map": "/FaunaStore/static/css/main.37d578b0.css.map",
+    "main.e4dc11a2.js.map": "/FaunaStore/static/js/main.e4dc11a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d578b0.css",
+    "static/js/main.e4dc11a2.js"
+  ]
+}
